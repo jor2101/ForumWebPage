@@ -24,7 +24,8 @@ namespace ForumWebPage
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      
+                      "~/Content/bootstrapSandStone.css",
                       "~/Content/site.css"));
         }
     }
